@@ -1,0 +1,454 @@
+{
+    "1": {
+        "b": 106,
+        "g": 219,
+        "gm": 5,
+        "nm": "ZOMBIE",
+        "plist": "dice_cross_1",
+        "r": 76,
+        "ra": 1
+    },
+    "2": {
+        "b": 46,
+        "g": 41,
+        "gm": 5,
+        "nm": "XMAS",
+        "plist": "dice_cross_1",
+        "r": 206,
+        "ra": 1
+    },
+    "3": {
+        "b": 68,
+        "g": 140,
+        "gm": 5,
+        "nm": "STARY",
+        "plist": "dice_cross_1",
+        "r": 48,
+        "ra": 1
+    },
+    "4": {
+        "b": 98,
+        "g": 146,
+        "gm": 5,
+        "nm": "PIRATE",
+        "plist": "dice_cross_1",
+        "r": 166,
+        "ra": 1
+    },
+    "5": {
+        "b": 239,
+        "g": 189,
+        "gm": 5,
+        "nm": "FUTURE",
+        "plist": "dice_cross_1",
+        "r": 140,
+        "ra": 1
+    },
+    "6": {
+        "b": 222,
+        "g": 76,
+        "gm": 5,
+        "nm": "PENCIL",
+        "plist": "dice_cross_1",
+        "r": 182,
+        "ra": 1
+    },
+    "7": {
+        "b": 28,
+        "g": 192,
+        "gm": 5,
+        "nm": "MUMMY",
+        "plist": "dice_cross_1",
+        "r": 227,
+        "ra": 1
+    },
+    "8": {
+        "b": 239,
+        "g": 189,
+        "gm": 5,
+        "nm": "ROCKET",
+        "plist": "dice_cross_1",
+        "r": 140,
+        "ra": 1
+    },
+    "9": {
+        "b": 8,
+        "g": 122,
+        "gm": 50,
+        "nm": "DUNK",
+        "plist": "dice_cross_1",
+        "r": 218,
+        "ra": 2
+    },
+    "10": {
+        "b": 46,
+        "g": 41,
+        "gm": 50,
+        "nm": "YORKER",
+        "plist": "dice_cross_1",
+        "r": 206,
+        "ra": 2
+    },
+    "11": {
+        "b": 155,
+        "g": 131,
+        "gm": 5,
+        "nm": "DONUT",
+        "plist": "dice_cross_1",
+        "r": 87,
+        "ra": 1
+    },
+    "12": {
+        "b": 39,
+        "g": 192,
+        "gm": 50,
+        "nm": "COMIC",
+        "plist": "dice_cross_1",
+        "r": 252,
+        "ra": 2
+    },
+    "13": {
+        "b": 239,
+        "g": 189,
+        "gm": 100,
+        "nm": "PISCES",
+        "plist": "dice_cross_1",
+        "r": 140,
+        "ra": 3
+    },
+    "14": {
+        "b": 205,
+        "g": 117,
+        "gm": 50,
+        "nm": "JOKER",
+        "plist": "dice_cross_1",
+        "r": 64,
+        "ra": 2
+    },
+    "15": {
+        "b": 107,
+        "g": 135,
+        "gm": 100,
+        "nm": "COOKIE",
+        "plist": "dice_cross_1",
+        "r": 155,
+        "ra": 3
+    },
+    "16": {
+        "b": 220,
+        "g": 36,
+        "gm": 100,
+        "nm": "LAMP",
+        "plist": "dice_cross_1",
+        "r": 231,
+        "ra": 3
+    },
+    "17": {
+        "b": 239,
+        "g": 189,
+        "gm": 50,
+        "nm": "WINTER",
+        "plist": "dice_cross_1",
+        "r": 140,
+        "ra": 2
+    },
+    "18": {
+        "b": 239,
+        "g": 189,
+        "gm": 100,
+        "nm": "GEMINI",
+        "plist": "dice_cross_1",
+        "r": 140,
+        "ra": 3
+    },
+    "19": {
+        "b": 239,
+        "g": 189,
+        "gm": 50,
+        "nm": "SUMMER",
+        "plist": "dice_cross_1",
+        "r": 140,
+        "ra": 2
+    },
+    "20": {
+        "b": 36,
+        "g": 128,
+        "gm": 5,
+        "nm": "AUTUMN",
+        "plist": "dice_cross_1",
+        "r": 231,
+        "ra": 1
+    },
+    "21": {
+        "b": 39,
+        "g": 192,
+        "gm": 5,
+        "nm": "80s",
+        "plist": "dice_cross_1",
+        "r": 252,
+        "ra": 1
+    },
+    "22": {
+        "b": 222,
+        "g": 76,
+        "gm": 5,
+        "nm": "LIBRA",
+        "plist": "dice_cross_1",
+        "r": 182,
+        "ra": 1
+    },
+    "23": {
+        "b": 239,
+        "g": 189,
+        "gm": 5,
+        "nm": "AQUA",
+        "plist": "dice_cross_1",
+        "r": 140,
+        "ra": 1
+    },
+    "24": {
+        "b": 148,
+        "g": 143,
+        "gm": 5,
+        "nm": "GELATO",
+        "plist": "dice_cross_1",
+        "r": 133,
+        "ra": 1
+    },
+    "25": {
+        "b": 108,
+        "g": 223,
+        "gm": 5,
+        "nm": "PIZZA",
+        "plist": "dice_cross_1",
+        "r": 102,
+        "ra": 1
+    },
+    "26": {
+        "b": 108,
+        "g": 223,
+        "gm": 5,
+        "nm": "SPRING",
+        "plist": "dice_cross_2",
+        "r": 102,
+        "ra": 1
+    },
+    "27": {
+        "b": 161,
+        "g": 64,
+        "gm": 5,
+        "nm": "HELMET",
+        "plist": "dice_cross_2",
+        "r": 21,
+        "ra": 1
+    },
+    "28": {
+        "b": 8,
+        "g": 122,
+        "gm": 5,
+        "nm": "MANGO",
+        "plist": "dice_cross_2",
+        "r": 218,
+        "ra": 1
+    },
+    "29": {
+        "b": 135,
+        "g": 39,
+        "gm": 5,
+        "nm": "CACTUS",
+        "plist": "dice_cross_2",
+        "r": 95,
+        "ra": 1
+    },
+    "30": {
+        "b": 197,
+        "g": 221,
+        "gm": 5,
+        "nm": "CANDLE",
+        "plist": "dice_cross_2",
+        "r": 241,
+        "ra": 1
+    },
+    "31": {
+        "b": 135,
+        "g": 39,
+        "gm": 5,
+        "nm": "BAMBOO",
+        "plist": "dice_cross_2",
+        "r": 95,
+        "ra": 1
+    },
+    "32": {
+        "b": 53,
+        "g": 53,
+        "gm": 5,
+        "nm": "MELON",
+        "plist": "dice_cross_2",
+        "r": 235,
+        "ra": 1
+    },
+    "33": {
+        "b": 161,
+        "g": 64,
+        "gm": 5,
+        "nm": "DARK",
+        "plist": "dice_cross_2",
+        "r": 21,
+        "ra": 1
+    },
+    "34": {
+        "b": 40,
+        "g": 40,
+        "gm": 5,
+        "nm": "CLOCK",
+        "plist": "dice_cross_2",
+        "r": 75,
+        "ra": 1
+    },
+    "35": {
+        "b": 135,
+        "g": 39,
+        "gm": 50,
+        "nm": "KICK",
+        "plist": "dice_cross_2",
+        "r": 95,
+        "ra": 2
+    },
+    "36": {
+        "b": 8,
+        "g": 122,
+        "gm": 50,
+        "nm": "YO!LK",
+        "plist": "dice_cross_2",
+        "r": 218,
+        "ra": 2
+    },
+    "37": {
+        "b": 197,
+        "g": 221,
+        "gm": 50,
+        "nm": "MAIL",
+        "plist": "dice_cross_2",
+        "r": 241,
+        "ra": 2
+    },
+    "38": {
+        "b": 170,
+        "g": 129,
+        "gm": 100,
+        "nm": "CAPRI",
+        "plist": "dice_cross_2",
+        "r": 49,
+        "ra": 3
+    },
+    "39": {
+        "b": 161,
+        "g": 64,
+        "gm": 100,
+        "nm": "BONDS",
+        "plist": "dice_cross_2",
+        "r": 21,
+        "ra": 3
+    },
+    "100": {
+        "b": 53,
+        "g": 53,
+        "gm": 100,
+        "nm": "MUSHY",
+        "plist": "dice_cross_2",
+        "r": 235,
+        "ra": 4
+    },
+    "101": {
+        "b": 8,
+        "g": 122,
+        "gm": 100,
+        "nm": "SEALIFE",
+        "plist": "dice_cross_2",
+        "r": 218,
+        "ra": 4
+    },
+    "102": {
+        "b": 170,
+        "g": 129,
+        "gm": 100,
+        "nm": "TECHIE",
+        "plist": "dice_cross_2",
+        "r": 49,
+        "ra": 4
+    },
+    "103": {
+        "b": 53,
+        "g": 53,
+        "gm": 100,
+        "nm": "CALLER",
+        "plist": "dice_cross_2",
+        "r": 235,
+        "ra": 4
+    },
+    "104": {
+        "b": 187,
+        "g": 51,
+        "gm": 100,
+        "nm": "UNICORN",
+        "plist": "dice_cross_2",
+        "r": 216,
+        "ra": 4
+    },
+    "105": {
+        "b": 216,
+        "g": 51,
+        "gm": 100,
+        "nm": "CARPET",
+        "plist": "dice_cross_2",
+        "r": 148,
+        "ra": 4
+    },
+    "501": {
+        "b": 216,
+        "g": 51,
+        "gm": 0,
+        "nm": "KNIGHT",
+        "plist": "dice_cross_5",
+        "r": 148,
+        "ra": 12
+    },
+    "502": {
+        "b": 216,
+        "g": 51,
+        "gm": 0,
+        "nm": "VIKING",
+        "plist": "dice_cross_5",
+        "r": 148,
+        "ra": 13
+    },
+    "503": {
+        "b": 216,
+        "g": 51,
+        "gm": 0,
+        "nm": "CYBORG",
+        "plist": "dice_cross_5",
+        "r": 148,
+        "ra": 14
+    },
+    "700": {
+        "b": 197,
+        "g": 221,
+        "gm": 0,
+        "nm": "SOCIAL",
+        "plist": "dice_cross_11",
+        "r": 241,
+        "ra": 18,
+        "un": 2147483647
+    },
+    "701": {
+        "b": 170,
+        "g": 129,
+        "gm": 0,
+        "nm": "CORAL",
+        "plist": "dice_cross_13",
+        "r": 49,
+        "ra": 19,
+        "un": 2147483647
+    }
+}
